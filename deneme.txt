@@ -2,3 +2,5 @@ Python
 Java
 HTML
 CSS
+React
+SQL
